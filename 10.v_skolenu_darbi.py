@@ -5,6 +5,7 @@
 #2 Burmistris Ernests
 
 #3 Jefremovs Ēriks Miķelis
+print('Labdien, skolotāja')
 
 #4 Krastiņš Ričards
 
