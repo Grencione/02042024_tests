@@ -2,6 +2,8 @@
 
 #1 Bērziņa Tīna
 
+print("Labdien, skolotaja")
+
 #2 Burmistris Ernests
 
 #3 Jefremovs Ēriks Miķelis
