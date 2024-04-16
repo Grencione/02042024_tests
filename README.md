@@ -2,3 +2,4 @@
 mans pirmais repozitorijs
 
 darbs ar GitHub
+Tatjana Grencione
