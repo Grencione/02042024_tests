@@ -2,6 +2,8 @@
 
 #1 Bērziņa Tīna
 
+print("Labdien, skolotaja")
+
 #2 Burmistris Ernests
 print("Labdien, skolotāja!") #Sveicienu pievienoja Ernests Burmistris (Mr-Burme)
 #3 Jefremovs Ēriks Miķelis
