@@ -9,6 +9,6 @@ print("Labdien, skolotāja!") #Sveicienu pievienoja Ernests Burmistris (Mr-Burme
 #4 Krastiņš Ričards
 
 #5 Lielanse Dora Līva
-
+print("Labdien skolotāj")
 #6 Stramkale Emīlija
 
